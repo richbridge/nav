@@ -23,10 +23,6 @@
   img: https://files.seeusercontent.com/2026/03/16/xoG7/favicon.ico
   description: 图床
 - name: N8N
-  url: https://fann8n.zeabur.app/
-  img: https://fann8n.zeabur.app/favicon.ico
-  description: zeabur
-- name: N8N
-  url: https://n8n-vbtutgsd.us-west-1.clawcloudrun.com/
-  img: https://fann8n.zeabur.app/favicon.ico
-  description: 爪云
+  url: https://richffan-n8n.hf.space
+  img: https://richffan-n8n.hf.space/favicon.ico
+  description: hugging face
