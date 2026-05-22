@@ -222,8 +222,8 @@
                       <% } %>
 
                 <h4 class="text-gray text-lg mb-4"><i class="fa fa-link icon-lg mr-2" id="friendlink"></i>友情链接</h4>
-                <div class="friendlink text-xs">
-                    <div>
+                <div class="friendlink text-xs card">
+                    <div class="card-body">
                         <% for (var link in site.data.blogroll) { %>
                             <a href="<%= site.data.blogroll[link] %>" target="_blank"> <%= link %> </a>
                           <% } %>
