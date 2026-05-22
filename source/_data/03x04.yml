@@ -1,0 +1,12 @@
+- name: webmagic
+  url: https://webmagic.io/
+  img: https://webmagic.io/favicon.ico
+  description: WebMagic 是一个灵活、可扩展的 Java 爬虫框架，覆盖下载、URL 管理、内容抽取与持久化的完整生命周期。
+- name: querylist
+  url: https://querylist.1team.top/
+  img: https://querylist.1team.top/code.png
+  description: 优雅的渐进式 PHP DOM 解析框架，让DOM解析更简单一点。
+- name: scrapy
+  url: https://www.scrapy.org/
+  img: https://www.scrapy.org/favicon/scrapy-favicon.svg
+  description: Open-source framework for efficient web scraping and data extraction.
