@@ -10,3 +10,11 @@
   url: https://www.scrapy.org/
   img: https://www.scrapy.org/favicon/scrapy-favicon.svg
   description: Open-source framework for efficient web scraping and data extraction.
+- name: go-colly
+  url: https://www.go-colly.org/
+  img: https://go-colly.org/logo.png
+  description: Scraping framework for extracting the data you need from websites, used for a wide range of applications, like data mining, data processing or archiving
+- name: goquery
+  url: https://github.com/PuerkitoBio/goquery
+  img: https://github.githubassets.com/favicons/favicon.svg
+  description: A little like that j-thing, only in Go. 
