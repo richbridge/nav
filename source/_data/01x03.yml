@@ -10,3 +10,7 @@
   url: https://xt.zhaojin.com.cn/cloudflow/home/
   img: ./images/logo/ezhaojin.svg
   description: 易招金
+- name: NAS
+  url: https://172.18.0.192:5001/
+  img: https://172.18.0.192:5001/webman/favicon.ico?v=40438
+  description: 群晖
