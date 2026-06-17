@@ -48,6 +48,9 @@ menu:
       - name: AI工具
         icon: fa fa-tools
         config: 01x04
+      - name: 法律法规
+        icon: fa fa-tools
+        config: 01x05
 
   - name: 常用网址
     icon: fa fa-star

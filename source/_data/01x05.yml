@@ -1,0 +1,4 @@
+- name: 国家法律法规数据库
+  url: https://flk.npc.gov.cn/index
+  img: https://flk.npc.gov.cn/assets/badge-D4hUkyEE.png
+  description: 国家法律法规数据库
