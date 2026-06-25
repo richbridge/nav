@@ -70,16 +70,16 @@ menu:
     icon: fa fa-cut
     config: 03x
     submenu:
-      - name: 在线工具
+      - name: 数据库
         icon: fa fa-globe
         config: 03x01
-      - name: 文档处理
+      - name: 前端
         icon: fa fa-file-alt
         config: 03x02
-      - name: 开发工具
+      - name: 后端
         icon: fa fa-code
         config: 03x03
-      - name: 采集框架
+      - name: 采集
         icon: fa fa-code
         config: 03x04
 

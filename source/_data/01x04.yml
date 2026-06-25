@@ -34,3 +34,7 @@
   url: https://ai-bot.cn/
   img: https://ai-bot.cn/wp-content/uploads/2023/07/ai-bot-favicon.png
   description: 1000+ AI工具集合，国内外AI工具集导航大全
+- name: Pass all exams
+  url: https://github.com/SolarAscent/pass_all_exams
+  img: view-source:https://github.githubassets.com/favicons/favicon.png
+  description: 面向 Codex、Claude Code、OpenClaw、OpenCode 的证据化考试复习 Skill。
