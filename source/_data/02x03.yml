@@ -1,3 +1,7 @@
+- name: X网盘助手
+  url: https://mf.dg22.top/user/parse
+  img: https://mf.dg22.top/favicon.ico
+  description: 免费云解析工具
 - name: 闪链
   url: https://wpurl.cc/
   img: https://wpurl.cc/favicon.ico
