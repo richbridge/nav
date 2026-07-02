@@ -82,6 +82,9 @@ menu:
       - name: 采集
         icon: fa fa-code
         config: 03x04
+      - name: 工具
+        icon: fa fa-code
+        config: 03x05
 
 footmenu:
   # - name: 在线留言
