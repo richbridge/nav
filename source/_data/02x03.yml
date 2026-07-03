@@ -18,7 +18,19 @@
   url: https://jx.os3.cn/
   img: https://jx.os3.cn/favicon.svg
   description: QQ交流群964913875
-- name: 网盘解析-VIP
+- name: bdbdjx
+  url: https://bdbdjx.top/
+  img: https://hy.os3.cn/favicon.ico
+  description: VIP
+- name: kuaidown
+  url: https://jx.kuaidown.top/
+  img: https://jx.kuaidown.top/favicon.ico
+  description: VIP
+- name: 全网资源搜索与解析工具
+  url: https://pdpb.cn/
+  img: https://pdpb.cn/favicon.svg
+  description: 全网资源搜索与解析工具
+- name: hy.os3.cn
   url: https://hy.os3.cn/
   img: https://hy.os3.cn/favicon.ico
   description: VIP
