@@ -3,13 +3,13 @@
   img: https://files.seeusercontent.com/2026/03/16/xoG7/favicon.ico
   description: nav
 - name: 樊尘刹记
-  url: http://fanrich.eu.org/
+  url: https://fanrich.eu.org/
   img: https://files.seeusercontent.com/2026/03/16/xoG7/favicon.ico
-  description: 子非鱼，安知鱼之乐
+  description: 鱼
 - name: 樊尘刹记
-  url: http://richfan.eu.org/
+  url: https://richfan.eu.org/
   img: https://files.seeusercontent.com/2026/03/16/xoG7/favicon.ico
-  description: 星辰点点
+  description: 雪
 - name: 樊笼
   url: https://252262.xyz/
   img: https://files.seeusercontent.com/2026/03/16/xoG7/favicon.ico
@@ -18,7 +18,3 @@
   url: https://img.252262.xyz/
   img: https://files.seeusercontent.com/2026/03/16/xoG7/favicon.ico
   description: 图床
-- name: N8N
-  url: https://richffan-n8n.hf.space
-  img: https://richffan-n8n.hf.space/favicon.ico
-  description: hugging face
